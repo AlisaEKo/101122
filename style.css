@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(194, 193, 193);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.box {
+    background-color: rgb(81, 81, 81);
+    width: 300px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid blanchedalmond;
+    font-size: larger;
+
+}
+
+
+
+/* Style the input fields */
+input {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+p {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h1:hover {
+    color: aqua;
+}
