@@ -1,7 +1,7 @@
 
 function calc() {
     let number = document.getElementById("number1").value;
-    let result = (number * 10);
+    let result = (number*1 + 10);
     document.getElementById("number1").value = result;
     // console.log(result);
     // alert(result);
