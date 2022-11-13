@@ -6,7 +6,8 @@ function calc() {
         document.getElementById("number1").value = result;
     }
     else {
-        alert("This is not a Number");
+        document.getElementById("number1").value = ("This is not a Number");
+        // alert("This is not a Number");
     }
     // console.log(result);
     // alert(result);
