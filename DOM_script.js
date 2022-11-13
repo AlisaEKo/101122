@@ -2,10 +2,11 @@
 function calc() {
     let number = document.getElementById("number1").value;
     let result
-    if (result = (number*1 + 10))
-    {document.getElementById("number1").value = result;}
+    if (result = (number * 1 + 10)) {
+        document.getElementById("number1").value = result;
+    }
     else {
-        alert ("This is not a Number")
+        alert("This is not a Number");
     }
     // console.log(result);
     // alert(result);
